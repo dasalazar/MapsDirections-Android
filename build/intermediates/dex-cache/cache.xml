@@ -16,6 +16,13 @@
         <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_49f50e32090f0e360dab71ce06a43a6b2df2e836/classes.dex" />
     </item>
     <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.2_927aca37002f4d24967400150b36ecc36698170f/classes.dex" />
+    </item>
+    <item
         jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="24.0.0 rc4"
@@ -103,14 +110,14 @@
         jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.0 rc4"
-        sha1="1e03c95875e04d82008e50ceb65dd6cdcbc7cdaf">
+        sha1="6af1d7a96fa0fc7e60846ce888e4a7acc2c29b73">
         <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cbfe85164874ffefb7b5879f34e24961ad180e56/classes.dex" />
     </item>
     <item
         jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0 rc4"
-        sha1="c5435d6d9ea553a4373ca5b5b177c8bc0ea1fbae">
+        sha1="510915882fea1d0d8637ded1df9a9c0221b0e2b0">
         <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e812948d0b7b568bdcd48fa68a76625c159aabdd/classes.dex" />
     </item>
     <item
@@ -126,6 +133,13 @@
         revision="24.0.0 rc4"
         sha1="94d9cedd04b124aed044ac71c451a292856d854c">
         <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_23e177bca545ffbd2db6f7df6068789a19b88cd2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.2_74c7e547e08b6a04085363ec04696818b79072d6/classes.dex" />
     </item>
     <item
         jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
