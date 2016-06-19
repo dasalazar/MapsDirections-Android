@@ -1,0 +1,1 @@
+package com.example.dodo.rotamapa;/** * Created by dodo on 18/06/16. */public class OverViewPolyline {    public String points;}

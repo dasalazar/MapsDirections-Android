@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.3/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="4d3de1e946207667e76261421de0218f132960e0">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.maps.android-android-maps-utils-0.4.3_f5b64d817b61722b73c7e8293117477423fb28af/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_49f50e32090f0e360dab71ce06a43a6b2df2e836/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_a02d09ad7ddebf3e02523ab70129116550f7dd39/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_40e13d5705d8fe03fffb5d64194d9263280275bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_9b93390051fccf0404eac168c1e16a3f16b5683b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_6952d02e1c758711f7b080fb068192b31b78a3bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.2_fff600041e3b3bef77eb735bfe890fa70e97ce55/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_b7a89f69173d093e7bf4440503ac79ebff21cd19/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.2_6e85348f47284935b5ce82582048105b078d8782/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0_7769cd3d231921ee242075c3e53fb8c79ac557f8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.0.1/1d232df84491c0453e077002509911301109409d/logging-interceptor-3.0.1.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="1d232df84491c0453e077002509911301109409d">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.0.1_777c0e9f17faba9b88bbde21abf58262441dc8a6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_2f0886a3008ab16badf3bf94dfd864aca257db8d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_88e7bd42cb6f47927ea7390361d12c18ef2510d4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_79472143faba99b739d846d1f36366e880671b11/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="1e03c95875e04d82008e50ceb65dd6cdcbc7cdaf">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cbfe85164874ffefb7b5879f34e24961ad180e56/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="c5435d6d9ea553a4373ca5b5b177c8bc0ea1fbae">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e812948d0b7b568bdcd48fa68a76625c159aabdd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_51fbcd73d168c54f740991713fcb5c1a32dce761/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_23e177bca545ffbd2db6f7df6068789a19b88cd2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_74f84e9984c2db0ec1162000993b60f17eaaa963/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0_0c3b980f65ed395384c947332e8b4fb4241fc91e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/dodo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/dodo/Documents/WorkingDirectory/androidstudioprojects/pos/paa/RotaMapa/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_81a0fcbfa991ea76480ca56a3a10c7d61920f50f/classes.dex" />
+    </item>
+
+</items>
